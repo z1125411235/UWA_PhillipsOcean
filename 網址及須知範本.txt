@@ -1,0 +1,8 @@
+版本:Unity 2017.4.27f1 (64-bit)
+
+UWA網址__https://lab.uwa4d.com/lab/5b56552ed7f10a201fd92fba
+
+官方Github網址__https://github.com/Scrawk/Phillips-Ocean
+
+本人Github網址__https://github.com/z1125411235/UWA_PhillipsOcean
+
